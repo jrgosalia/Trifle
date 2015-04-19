@@ -13,3 +13,7 @@ hs_err_pid*
 
 # log files
 *.log
+
+# Eclipse generated files
+.project
+.classpath
