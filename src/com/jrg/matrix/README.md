@@ -1,0 +1,1 @@
+Write a java program to display all rows and columns of a 2D matrix.

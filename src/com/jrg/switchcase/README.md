@@ -1,0 +1,1 @@
+Write a java program to display day of the week using 1-7.

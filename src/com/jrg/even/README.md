@@ -1,0 +1,1 @@
+Write a java program to print all the even numbers present between 0 and given MAX number.

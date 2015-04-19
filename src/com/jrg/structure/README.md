@@ -1,0 +1,7 @@
+Write a java program to display the following structure.
+
+#
+###
+#####
+###
+#
